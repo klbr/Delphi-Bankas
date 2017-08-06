@@ -1,0 +1,10 @@
+*.dll
+*.exe
+*.dof
+*.~dpr
+*.~ddp
+*.~dfm
+*.~pas
+*.dcu
+Out/
+*.chm
